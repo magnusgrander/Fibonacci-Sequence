@@ -22,3 +22,5 @@ The rules for the Fibonacci numbers are given as:
     The sequence of Fibonacci numbers goes like 0, 1, 1, 2, and so on.
 
 The rule for Fibonacci numbers, if explained in simple terms, says that "every number in the sequence is the sum of two numbers preceding it in the sequence".
+
+
